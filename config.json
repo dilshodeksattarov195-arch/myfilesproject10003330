@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifysalidate",
+        "uuid": 13866120,
+        "checksum": "dfwtp8"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
